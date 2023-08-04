@@ -1,0 +1,43 @@
+ .wid1{
+    text-align: center;
+ }
+ .wid2{
+    text-align: center;
+ }
+.hinhtron {
+    border: solid 2px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;      
+    
+}
+
+h3 {
+    color: green;
+    text-align: center;
+
+}
+navbar{
+    height: 40px;
+    background-color: blue;
+    color: white;
+}
+.navbar .menu{
+    list-style-type: none;
+}
+.navbar .menu li{
+    float: left;
+    margin: 0px 9px;
+}
+.navbar .menu li a{
+    color: white;
+    background-color: blue;
+    text-decoration: none;
+    line-height: 150px;
+    padding: 6px 10px;
+}
+.hinhhop {
+    width: 600px;
+    height: 280px;
+    text-align: center;
+}
